@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @Elvisqa93
 - 👀 I'm always interested in learning.
 - 🌱 I'm currently learning web testing automation.
-- 💞️ I try to collaborate when I know something lol.
 - 📫 How to contact me via WhatsApp or email.
 
 
